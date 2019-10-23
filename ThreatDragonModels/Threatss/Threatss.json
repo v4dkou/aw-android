@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "Threatss",
+    "owner": "me"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "A diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "me"
+  }
+}
